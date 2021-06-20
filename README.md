@@ -1,6 +1,6 @@
 # PalmTracking
 
-This is a Palm tracking python program. It uses computer vision to track the movements of your plam using 21 reference points. It is made with the help of mediapipe(https://google.github.io/mediapipe/solutions/hands) a library built by google.
+This is a Palm tracking python program. It uses computer vision to track the movements of your palm using 21 reference points. It is made with the help of mediapipe(https://google.github.io/mediapipe/solutions/hands) a library built by google.
 
 Download mediapipe with the following command- ```pip install mediapipe```
 
