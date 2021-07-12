@@ -4,7 +4,7 @@ This is a Palm tracking python program. It uses machine learning to track the mo
 
 Download mediapipe with the following command- 
 
-    ```pip install mediapipe```
+  ```pip install mediapipe```
 
 The palm is tracked using 21 reference points. These reference points are predefined. The reference points are as follows-
 
